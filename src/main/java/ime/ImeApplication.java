@@ -1,4 +1,4 @@
-package com.aeight.ime;
+package ime;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ImeApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ImeApplication.class, args);
+		SpringApplication.run(ImeApplication.class, args); // This here - creates the Spring Shell -
+		// Application Context
 	}
 
 }

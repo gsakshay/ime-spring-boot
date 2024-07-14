@@ -1,4 +1,4 @@
-package com.aeight.ime;
+package ime;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
